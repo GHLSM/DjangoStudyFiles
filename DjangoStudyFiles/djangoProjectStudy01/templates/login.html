@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+{#    <script src="https://cdn.bootcdn.net/ajax/libs/jquery/3.4.1/jquery.min.js"></script>#}
+{#    <script src="https://cdn.bootcdn.net/ajax/libs/twitter-bootstrap/3.4.1/js/bootstrap.min.js"></script>#}
+{#    <link href="https://cdn.bootcdn.net/ajax/libs/twitter-bootstrap/3.4.1/css/bootstrap.min.css" rel="stylesheet">#}
+{#    <link rel="stylesheet" href="/static/bootstrap-3.3.7-dist/css/bootstrap.min.css">#}
+{#    <script src="/static/bootstrap-3.3.7-dist/js/bootstrap.min.js"></script>#}
+    {% load static %}
+    <link rel="stylesheet" href="{% static 'bootstrap-3.3.7-dist/css/bootstrap.min.css' %}">
+    <script src="{% static 'bootstrap-3.3.7-dist/js/bootstrap.min.js' %}"></script>
+    <title>登录</title>
+</head>
+<body>
+<h1 class="text-center">登录</h1>
+<div class="container">
+    <div class="row">
+        <div class="col-md-8 col-md-offset-2">
+            <form action="/login/" method="post">
+                <p>username:<input type="text" name="username" class="form-control"></p>
+                <p>password:<input type="password" name="password" class="form-control"></p>
+{#                <p>#}
+{#                    <input type="checkbox" value="男" name="gender" checked>男#}
+{#                    <input type="checkbox" value="女" name="gender" >女#}
+{#                    #}
+{#                </p>#}
+
+
+                <input type="submit" class="btn btn-block btn-success">
+            </form>
+        </div>
+    </div>
+</div>
+</body>
+</html>

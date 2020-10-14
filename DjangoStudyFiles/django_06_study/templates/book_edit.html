@@ -1,0 +1,39 @@
+{% extends "home.html" %}
+
+{% block content %}
+    <h1 class="text-center">书籍编辑</h1>
+    <form action="" method="post">
+        <p>书名为：<input type="text" name="title" class="form-control " class="form-control" value="{{ book_obj.title }}"></p>
+        <p>价格为：<input type="text" name="price" class="form-control " class="form-control" value="{{ book_obj.price }}"></p>
+        <p>出版日期为：<input type="date" name="publish_date" class="form-control " class="form-control" value="{{ book_obj.publish_date|date:'Y-m-d' }}"></p>
+        <p>出版社：
+            <select name="publish" id="" class="form-control">
+                {% for publish_obj in publish_queryset %}
+                    {% if book_obj.publish == publish_obj %}
+                        <option value="{{ publish_obj.pk }}" selected>{{ publish_obj.name }}</option>
+                    {% else %}
+                        <option value="{{ publish_obj.pk }}" >{{ publish_obj.name }}</option>
+                    {% endif %}
+
+                {% endfor %}
+
+            </select>
+        </p>
+
+        <p>作者为：
+            <select name="authors" id="" class="form-control" multiple>
+                {% for author_obj in author_queryset %}
+                    {% if author_obj in book_obj.authors.all%}
+                        <option value="{{ author_obj.pk }}" selected>{{ author_obj.name }}</option>
+                    {% else %}
+                        <option value="{{ author_obj.pk }}">{{ author_obj.name }}</option>
+                    {% endif %}
+                {% endfor %}
+
+            </select>
+        </p>
+        <input type="submit" value="提交" class="btn btn-info btn-block">
+    </form>
+{% endblock %}
+
+

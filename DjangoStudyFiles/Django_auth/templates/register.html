@@ -52,15 +52,13 @@
             //利用文件阅读器，将文件展示到前端页面
             $('#myimage').attr('src', myFileReaderObj.result)
         }
-
-
     })
 
     $('#id_commit').click(function () {
         //发送的文件既包含键值对和文件
         let formDataObj = new FormData();
 
-        $.each($('#myform').serializeArray(),function (index, obj) {
+        $.each($('#myform').serializeArray(),function (index, obj) { //index无用，可以省略
             formDataObj.append(obj.name, obj.value)
         });
 

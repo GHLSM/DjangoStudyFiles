@@ -1,0 +1,369 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="3935fd13-c669-4022-817f-86fa5c76aabe" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/../DjangoStudyFiles/Django_auth/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DjangoStudyFiles/Django_auth/.idea/Django_auth.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DjangoStudyFiles/Django_auth/.idea/inspectionProfiles/profiles_settings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DjangoStudyFiles/Django_auth/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DjangoStudyFiles/Django_auth/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DjangoStudyFiles/Django_auth/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DjangoStudyFiles/Django_auth/app01/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DjangoStudyFiles/Django_auth/app01/admin.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DjangoStudyFiles/Django_auth/app01/apps.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DjangoStudyFiles/Django_auth/app01/migrations/0001_initial.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DjangoStudyFiles/Django_auth/app01/migrations/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DjangoStudyFiles/Django_auth/app01/models.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DjangoStudyFiles/Django_auth/app01/myforms.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DjangoStudyFiles/Django_auth/app01/templatetags/mytag.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DjangoStudyFiles/Django_auth/app01/tests.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DjangoStudyFiles/Django_auth/app01/views.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DjangoStudyFiles/Django_auth/db.sqlite3" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DjangoStudyFiles/Django_auth/django_auth/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DjangoStudyFiles/Django_auth/django_auth/settings.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DjangoStudyFiles/Django_auth/django_auth/urls.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DjangoStudyFiles/Django_auth/django_auth/wsgi.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DjangoStudyFiles/Django_auth/manage.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DjangoStudyFiles/Django_auth/media/avatar/IMG_0290.JPG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DjangoStudyFiles/Django_auth/media/avatar/IMG_0290_w7WtrF6.JPG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DjangoStudyFiles/Django_auth/media/avatar/default.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DjangoStudyFiles/Django_auth/static/font/hhh.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DjangoStudyFiles/Django_auth/static/font/kaishu.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DjangoStudyFiles/Django_auth/static/img/01.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DjangoStudyFiles/Django_auth/static/img/02.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DjangoStudyFiles/Django_auth/static/img/default.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DjangoStudyFiles/Django_auth/static/img/downdown.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DjangoStudyFiles/Django_auth/static/img/upup.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DjangoStudyFiles/Django_auth/templates/article_detail.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DjangoStudyFiles/Django_auth/templates/base.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DjangoStudyFiles/Django_auth/templates/error.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DjangoStudyFiles/Django_auth/templates/home.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DjangoStudyFiles/Django_auth/templates/left_menu.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DjangoStudyFiles/Django_auth/templates/login.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DjangoStudyFiles/Django_auth/templates/register.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DjangoStudyFiles/Django_auth/templates/site.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DjangoStudyFiles/django02Study/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DjangoStudyFiles/django02Study/.idea/codeStyles/codeStyleConfig.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DjangoStudyFiles/django02Study/.idea/django02Study.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DjangoStudyFiles/django02Study/.idea/inspectionProfiles/profiles_settings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DjangoStudyFiles/django02Study/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DjangoStudyFiles/django02Study/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DjangoStudyFiles/django02Study/app01/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DjangoStudyFiles/django02Study/app01/admin.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DjangoStudyFiles/django02Study/app01/apps.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DjangoStudyFiles/django02Study/app01/migrations/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DjangoStudyFiles/django02Study/app01/models.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DjangoStudyFiles/django02Study/app01/tests.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DjangoStudyFiles/django02Study/app01/views.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DjangoStudyFiles/django02Study/db.sqlite3" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DjangoStudyFiles/django02Study/django02Study/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DjangoStudyFiles/django02Study/django02Study/settings.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DjangoStudyFiles/django02Study/django02Study/urls.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DjangoStudyFiles/django02Study/django02Study/wsgi.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DjangoStudyFiles/django02Study/manage.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DjangoStudyFiles/django02Study/templates/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DjangoStudyFiles/django02Study/templates/login.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DjangoStudyFiles/djangoProjectStudy01/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DjangoStudyFiles/djangoProjectStudy01/.idea/codeStyles/codeStyleConfig.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DjangoStudyFiles/djangoProjectStudy01/.idea/dataSources.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DjangoStudyFiles/djangoProjectStudy01/.idea/dataSources/edfad46d-23d0-4016-9c6a-eb52b83bfeb9.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DjangoStudyFiles/djangoProjectStudy01/.idea/dataSources/edfad46d-23d0-4016-9c6a-eb52b83bfeb9/storage_v2/_src_/schema/information_schema.FNRwLQ.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DjangoStudyFiles/djangoProjectStudy01/.idea/djangoProjectStudy01.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DjangoStudyFiles/djangoProjectStudy01/.idea/inspectionProfiles/profiles_settings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DjangoStudyFiles/djangoProjectStudy01/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DjangoStudyFiles/djangoProjectStudy01/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DjangoStudyFiles/djangoProjectStudy01/app01/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DjangoStudyFiles/djangoProjectStudy01/app01/admin.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DjangoStudyFiles/djangoProjectStudy01/app01/apps.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DjangoStudyFiles/djangoProjectStudy01/app01/migrations/0001_initial.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DjangoStudyFiles/djangoProjectStudy01/app01/migrations/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DjangoStudyFiles/djangoProjectStudy01/app01/models.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DjangoStudyFiles/djangoProjectStudy01/app01/tests.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DjangoStudyFiles/djangoProjectStudy01/app01/views.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DjangoStudyFiles/djangoProjectStudy01/db.sqlite3" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DjangoStudyFiles/djangoProjectStudy01/djangoProjectStudy01/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DjangoStudyFiles/djangoProjectStudy01/djangoProjectStudy01/settings.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DjangoStudyFiles/djangoProjectStudy01/djangoProjectStudy01/urls.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DjangoStudyFiles/djangoProjectStudy01/djangoProjectStudy01/wsgi.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DjangoStudyFiles/djangoProjectStudy01/manage.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DjangoStudyFiles/djangoProjectStudy01/static/bootstrap-3.3.7-dist/css/bootstrap.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DjangoStudyFiles/djangoProjectStudy01/static/bootstrap-3.3.7-dist/css/bootstrap.min.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DjangoStudyFiles/djangoProjectStudy01/static/bootstrap-3.3.7-dist/fonts/glyphicons-halflings-regular.eot" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DjangoStudyFiles/djangoProjectStudy01/static/bootstrap-3.3.7-dist/fonts/glyphicons-halflings-regular.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DjangoStudyFiles/djangoProjectStudy01/static/bootstrap-3.3.7-dist/fonts/glyphicons-halflings-regular.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DjangoStudyFiles/djangoProjectStudy01/static/bootstrap-3.3.7-dist/fonts/glyphicons-halflings-regular.woff" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DjangoStudyFiles/djangoProjectStudy01/static/bootstrap-3.3.7-dist/fonts/glyphicons-halflings-regular.woff2" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DjangoStudyFiles/djangoProjectStudy01/static/bootstrap-3.3.7-dist/js/bootstrap.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DjangoStudyFiles/djangoProjectStudy01/static/bootstrap-3.3.7-dist/js/bootstrap.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DjangoStudyFiles/djangoProjectStudy01/static/bootstrap-3.3.7-dist/js/npm.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DjangoStudyFiles/djangoProjectStudy01/static/jquery-3.5.1/jquery-3.5.1.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DjangoStudyFiles/djangoProjectStudy01/static/jquery-3.5.1/jquery-3.5.1.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DjangoStudyFiles/djangoProjectStudy01/templates/edit_user.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DjangoStudyFiles/djangoProjectStudy01/templates/first_01.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DjangoStudyFiles/djangoProjectStudy01/templates/login.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DjangoStudyFiles/djangoProjectStudy01/templates/register.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DjangoStudyFiles/djangoProjectStudy01/templates/userlist.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DjangoStudyFiles/djangoStudy/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DjangoStudyFiles/djangoStudy/.idea/codeStyles/codeStyleConfig.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DjangoStudyFiles/djangoStudy/.idea/djangoStudy.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DjangoStudyFiles/djangoStudy/.idea/inspectionProfiles/profiles_settings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DjangoStudyFiles/djangoStudy/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DjangoStudyFiles/djangoStudy/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DjangoStudyFiles/djangoStudy/app_study_01/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DjangoStudyFiles/djangoStudy/app_study_01/admin.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DjangoStudyFiles/djangoStudy/app_study_01/apps.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DjangoStudyFiles/djangoStudy/app_study_01/migrations/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DjangoStudyFiles/djangoStudy/app_study_01/models.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DjangoStudyFiles/djangoStudy/app_study_01/tests.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DjangoStudyFiles/djangoStudy/app_study_01/views.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DjangoStudyFiles/djangoStudy/db.sqlite3" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DjangoStudyFiles/djangoStudy/djangoStudy/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DjangoStudyFiles/djangoStudy/djangoStudy/settings.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DjangoStudyFiles/djangoStudy/djangoStudy/urls.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DjangoStudyFiles/djangoStudy/djangoStudy/wsgi.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DjangoStudyFiles/djangoStudy/manage.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DjangoStudyFiles/djangoStudy_05/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DjangoStudyFiles/djangoStudy_05/.idea/codeStyles/codeStyleConfig.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DjangoStudyFiles/djangoStudy_05/.idea/dataSources.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DjangoStudyFiles/djangoStudy_05/.idea/dataSources/88bed9b7-9b20-41b6-837e-a9faa2d32550.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DjangoStudyFiles/djangoStudy_05/.idea/dataSources/88bed9b7-9b20-41b6-837e-a9faa2d32550/storage_v2/_src_/schema/information_schema.FNRwLQ.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DjangoStudyFiles/djangoStudy_05/.idea/djangoStudy_05.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DjangoStudyFiles/djangoStudy_05/.idea/inspectionProfiles/profiles_settings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DjangoStudyFiles/djangoStudy_05/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DjangoStudyFiles/djangoStudy_05/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DjangoStudyFiles/djangoStudy_05/app01/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DjangoStudyFiles/djangoStudy_05/app01/admin.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DjangoStudyFiles/djangoStudy_05/app01/apps.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DjangoStudyFiles/djangoStudy_05/app01/migrations/0001_initial.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DjangoStudyFiles/djangoStudy_05/app01/migrations/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DjangoStudyFiles/djangoStudy_05/app01/models.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DjangoStudyFiles/djangoStudy_05/app01/tests.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DjangoStudyFiles/djangoStudy_05/app01/views.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DjangoStudyFiles/djangoStudy_05/djangoStudy_05/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DjangoStudyFiles/djangoStudy_05/djangoStudy_05/settings.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DjangoStudyFiles/djangoStudy_05/djangoStudy_05/urls.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DjangoStudyFiles/djangoStudy_05/djangoStudy_05/wsgi.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DjangoStudyFiles/djangoStudy_05/manage.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DjangoStudyFiles/django_06_study/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DjangoStudyFiles/django_06_study/.idea/codeStyles/codeStyleConfig.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DjangoStudyFiles/django_06_study/.idea/django_06_study.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DjangoStudyFiles/django_06_study/.idea/inspectionProfiles/profiles_settings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DjangoStudyFiles/django_06_study/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DjangoStudyFiles/django_06_study/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DjangoStudyFiles/django_06_study/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DjangoStudyFiles/django_06_study/app01/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DjangoStudyFiles/django_06_study/app01/admin.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DjangoStudyFiles/django_06_study/app01/apps.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DjangoStudyFiles/django_06_study/app01/migrations/0001_initial.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DjangoStudyFiles/django_06_study/app01/migrations/0002_auto_20200926_1625.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DjangoStudyFiles/django_06_study/app01/migrations/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DjangoStudyFiles/django_06_study/app01/models.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DjangoStudyFiles/django_06_study/app01/tests.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DjangoStudyFiles/django_06_study/app01/views.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DjangoStudyFiles/django_06_study/django_06_study/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DjangoStudyFiles/django_06_study/django_06_study/settings.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DjangoStudyFiles/django_06_study/django_06_study/urls.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DjangoStudyFiles/django_06_study/django_06_study/wsgi.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DjangoStudyFiles/django_06_study/manage.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DjangoStudyFiles/django_06_study/templates/book_add.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DjangoStudyFiles/django_06_study/templates/book_edit.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DjangoStudyFiles/django_06_study/templates/book_list.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DjangoStudyFiles/django_06_study/templates/home.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DjangodrfRoutes/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../DjangodrfRoutes/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Djangorfw/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Djangorfw/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Djangorfw/app01/views.py" beforeDir="false" afterPath="$PROJECT_DIR$/../Djangorfw/app01/views.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/djangodrfAPIG.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/ApiView.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../drf_book/.idea/codeStyles/codeStyleConfig.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../drf_book/.idea/drf_book.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../drf_book/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../drf_book/.idea/inspectionProfiles/profiles_settings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../drf_book/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../drf_book/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../drf_book/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../drf_book/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../drf_book/app01/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../drf_book/app01/admin.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../drf_book/app01/apps.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../drf_book/app01/migrations/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../drf_book/app01/models.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../drf_book/app01/tests.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../drf_book/app01/views.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../drf_book/drf_book/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../drf_book/drf_book/settings.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../drf_book/drf_book/urls.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../drf_book/drf_book/wsgi.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../drf_book/manage.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../drf_book/utils/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../drf_book/utils/custom_exception_handler.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../drf_book/utils/custom_response.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../study_drf/.idea/codeStyles/codeStyleConfig.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../study_drf/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../study_drf/.idea/inspectionProfiles/profiles_settings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../study_drf/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../study_drf/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../study_drf/.idea/study_drf.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../study_drf/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../study_drf/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../study_drf/app01/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../study_drf/app01/admin.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../study_drf/app01/apps.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../study_drf/app01/migrations/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../study_drf/app01/models.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../study_drf/app01/tests.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../study_drf/app01/views.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../study_drf/manage.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../study_drf/study_drf/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../study_drf/study_drf/settings.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../study_drf/study_drf/urls.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../study_drf/study_drf/wsgi.py" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DjangoConsoleOptions" custom-start-script="import sys; print('Python %s on %s' % (sys.version, sys.platform))&#10;import django; print('Django %s' % django.get_version())&#10;sys.path.extend([WORKING_DIR_AND_PYTHON_PATHS])&#10;if 'setup' in dir(django): django.setup()&#10;import django_manage_shell; django_manage_shell.run(PROJECT_ROOT)">
+    <option name="myCustomStartScript" value="import sys; print('Python %s on %s' % (sys.version, sys.platform))&#10;import django; print('Django %s' % django.get_version())&#10;sys.path.extend([WORKING_DIR_AND_PYTHON_PATHS])&#10;if 'setup' in dir(django): django.setup()&#10;import django_manage_shell; django_manage_shell.run(PROJECT_ROOT)" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="FlaskConsoleOptions" custom-start-script="import sys&#10;sys.path.extend([WORKING_DIR_AND_PYTHON_PATHS])&#10;from flask.cli import ScriptInfo&#10;locals().update(ScriptInfo(create_app=None).load_app().make_shell_context())&#10;print(&quot;Python %s on %s\nApp: %s [%s]\nInstance: %s&quot; % (sys.version, sys.platform, app.import_name, app.env, app.instance_path))">
+    <envs>
+      <env key="FLASK_APP" value="app" />
+    </envs>
+    <option name="myCustomStartScript" value="import sys&#10;sys.path.extend([WORKING_DIR_AND_PYTHON_PATHS])&#10;from flask.cli import ScriptInfo&#10;locals().update(ScriptInfo(create_app=None).load_app().make_shell_context())&#10;print(&quot;Python %s on %s\nApp: %s [%s]\nInstance: %s&quot; % (sys.version, sys.platform, app.import_name, app.env, app.instance_path))" />
+    <option name="myEnvs">
+      <map>
+        <entry key="FLASK_APP" value="app" />
+      </map>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="JupyterTrust" id="54d368bc-ebd0-486c-8915-8e5335083ec3" />
+  <component name="ProjectId" id="1jRLS7Bdkk4sNPDr2Ib46kyQjzS" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+    <option name="showMembers" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="RunManager">
+    <configuration name="djangodrfAPIG" type="Python.DjangoServer" factoryName="Django server">
+      <module name="ApiView" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+        <env name="DJANGO_SETTINGS_MODULE" value="djangodrfAPIG.settings" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="launchJavascriptDebuger" value="false" />
+      <option name="port" value="8000" />
+      <option name="host" value="" />
+      <option name="additionalOptions" value="" />
+      <option name="browserUrl" value="" />
+      <option name="runTestServer" value="false" />
+      <option name="runNoReload" value="false" />
+      <option name="useCustomRunCommand" value="false" />
+      <option name="customRunCommand" value="" />
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="3935fd13-c669-4022-817f-86fa5c76aabe" name="Default Changelist" comment="" />
+      <created>1603761954056</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1603761954056</updated>
+      <workItem from="1603761958096" duration="9154000" />
+      <workItem from="1604308071452" duration="1506000" />
+      <workItem from="1607335175992" duration="220000" />
+      <workItem from="1607335446116" duration="55000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="549" y="167" key="FileChooserDialogImpl" timestamp="1607335394705">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="549" y="167" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1607335394705" />
+    <state width="1493" height="80" key="GridCell.Tab.0.bottom" timestamp="1603778098045">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="80" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1603778098045" />
+    <state width="1493" height="80" key="GridCell.Tab.0.center" timestamp="1603778098045">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="80" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1603778098045" />
+    <state width="1493" height="80" key="GridCell.Tab.0.left" timestamp="1603778098045">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="80" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1603778098045" />
+    <state width="1493" height="80" key="GridCell.Tab.0.right" timestamp="1603778098045">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="80" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1603778098045" />
+    <state x="270" y="57" key="SettingsEditor" timestamp="1604308138515">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="270" y="57" key="SettingsEditor/0.0.1536.824@0.0.1536.824" timestamp="1604308138515" />
+  </component>
+</project>

@@ -2,9 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="425b8300-f961-4f24-a2d1-8707e5bb6fbb" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/../Djangorfw/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Djangorfw/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/DjangodrfRoutes/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/DjangodrfRoutes/urls.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -50,7 +48,7 @@
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
     <property name="node.js.selected.package.eslint" value="(autodetect)" />
-    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
   <component name="RecentsManager">
@@ -126,45 +124,13 @@
       <workItem from="1606647180100" duration="131000" />
       <workItem from="1607397657406" duration="1122000" />
       <workItem from="1607400019478" duration="444000" />
+      <workItem from="1607400675826" duration="81000" />
+      <workItem from="1607400776622" duration="85000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
-  </component>
-  <component name="WindowStateProjectService">
-    <state x="449" y="147" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog" timestamp="1607400041547">
-      <screen x="0" y="0" width="1536" height="824" />
-    </state>
-    <state x="449" y="147" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog/0.0.1536.824@0.0.1536.824" timestamp="1607400041547" />
-    <state x="549" y="167" key="FileChooserDialogImpl" timestamp="1606647141253">
-      <screen x="0" y="0" width="1536" height="824" />
-    </state>
-    <state x="549" y="167" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1606647141253" />
-    <state width="1493" height="131" key="GridCell.Tab.0.bottom" timestamp="1606647310202">
-      <screen x="0" y="0" width="1536" height="824" />
-    </state>
-    <state width="1493" height="131" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1606647310202" />
-    <state width="1493" height="131" key="GridCell.Tab.0.center" timestamp="1606647310202">
-      <screen x="0" y="0" width="1536" height="824" />
-    </state>
-    <state width="1493" height="131" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1606647310202" />
-    <state width="1493" height="131" key="GridCell.Tab.0.left" timestamp="1606647310202">
-      <screen x="0" y="0" width="1536" height="824" />
-    </state>
-    <state width="1493" height="131" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1606647310202" />
-    <state width="1493" height="131" key="GridCell.Tab.0.right" timestamp="1606647310202">
-      <screen x="0" y="0" width="1536" height="824" />
-    </state>
-    <state width="1493" height="131" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1606647310202" />
-    <state x="270" y="57" key="SettingsEditor" timestamp="1604278825880">
-      <screen x="0" y="0" width="1536" height="824" />
-    </state>
-    <state x="270" y="57" key="SettingsEditor/0.0.1536.824@0.0.1536.824" timestamp="1604278825880" />
-    <state x="431" y="145" width="672" height="678" key="search.everywhere.popup" timestamp="1604016231444">
-      <screen x="0" y="0" width="1536" height="824" />
-    </state>
-    <state x="431" y="145" width="672" height="678" key="search.everywhere.popup/0.0.1536.824@0.0.1536.824" timestamp="1604016231444" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/DjangodrfRoutes$response_from.coverage" NAME="response_from Coverage Results" MODIFIED="1603787077084" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/app01/utils" />

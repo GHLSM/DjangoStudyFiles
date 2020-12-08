@@ -1,55 +1,27 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
   <component name="ChangeListManager">
     <list default="true" id="b390484e-e55f-4455-b7a5-34abbc36ff25" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/../DjangoStudyFiles/.idea/DjangoStudyFiles.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../DjangoStudyFiles/Django_auth/.idea/dataSources.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../DjangodrfRoutes/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../DjangodrfRoutes/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app01/views.py" beforeDir="false" afterPath="$PROJECT_DIR$/app01/views.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../drf_book/.idea/codeStyles/codeStyleConfig.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../drf_book/.idea/drf_book.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../drf_book/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../drf_book/.idea/inspectionProfiles/profiles_settings.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../drf_book/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../drf_book/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../drf_book/.idea/vcs.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../drf_book/.idea/workspace.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../drf_book/app01/__init__.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../drf_book/app01/admin.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../drf_book/app01/apps.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../drf_book/app01/migrations/__init__.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../drf_book/app01/models.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../drf_book/app01/tests.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../drf_book/app01/views.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../drf_book/drf_book/__init__.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../drf_book/drf_book/settings.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../drf_book/drf_book/urls.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../drf_book/drf_book/wsgi.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../drf_book/manage.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../drf_book/utils/__init__.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../drf_book/utils/custom_exception_handler.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../drf_book/utils/custom_response.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../study_drf/.idea/codeStyles/codeStyleConfig.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../study_drf/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../study_drf/.idea/inspectionProfiles/profiles_settings.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../study_drf/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../study_drf/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../study_drf/.idea/study_drf.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../study_drf/.idea/vcs.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../study_drf/.idea/workspace.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../study_drf/app01/__init__.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../study_drf/app01/admin.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../study_drf/app01/apps.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../study_drf/app01/migrations/__init__.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../study_drf/app01/models.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../study_drf/app01/tests.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../study_drf/app01/views.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../study_drf/manage.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../study_drf/study_drf/__init__.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../study_drf/study_drf/settings.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../study_drf/study_drf/urls.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../study_drf/study_drf/wsgi.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app01/serializerFile.py" beforeDir="false" afterPath="$PROJECT_DIR$/app01/serializerFile.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -96,7 +68,7 @@
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
     <property name="node.js.selected.package.eslint" value="(autodetect)" />
-    <property name="settings.editor.selected.configurable" value="reference.settingsdialog.IDE.editor.colors" />
+    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
   <component name="RunManager" selected="Django Server.Djangorfw">
@@ -168,17 +140,35 @@
       <workItem from="1604274098409" duration="67000" />
       <workItem from="1606720489597" duration="4390000" />
       <workItem from="1607325330266" duration="25000" />
+      <workItem from="1607393403485" duration="568000" />
+      <workItem from="1607394036369" duration="554000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
   </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
   <component name="WindowStateProjectService">
     <state x="361" y="71" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1603680535049">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="361" y="71" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1536.824@0.0.1536.824" timestamp="1603680535049" />
+    <state x="93" y="93" width="1350" height="638" key="DiffContextDialog" timestamp="1607394590411">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="93" y="93" width="1350" height="638" key="DiffContextDialog/0.0.1536.824@0.0.1536.824" timestamp="1607394590411" />
     <state x="549" y="167" key="FileChooserDialogImpl" timestamp="1607325352781">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
@@ -203,10 +193,10 @@
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state width="212" height="477" key="HiddenNamespacesPopup/0.0.1536.824@0.0.1536.824" timestamp="1603681062951" />
-    <state x="-25" y="129" width="996" height="707" key="SettingsEditor" timestamp="1603680769418">
+    <state x="534" y="22" width="914" height="707" key="SettingsEditor" timestamp="1607394326479">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="-25" y="129" width="996" height="707" key="SettingsEditor/0.0.1536.824@0.0.1536.824" timestamp="1603680769418" />
+    <state x="534" y="22" width="914" height="707" key="SettingsEditor/0.0.1536.824@0.0.1536.824" timestamp="1607394326479" />
     <state x="431" y="145" width="672" height="678" key="search.everywhere.popup" timestamp="1603678211558">
       <screen x="0" y="0" width="1536" height="824" />
     </state>

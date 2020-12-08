@@ -19,19 +19,20 @@ from app01 import views
 
 # 1.导入模块
 from rest_framework import routers
+
 # 2.有两个类，实例化得到对象
-#SimpleRouter
-#DefaultRouter  生成的路由比较多
+# SimpleRouter
+# DefaultRouter  生成的路由比较多
 router = routers.SimpleRouter()
 # router = routers.DefaultRouter()
 # 3.注册
 # router.register('前缀','继承自ModelViewSet的视图类','别名(用于方向解析)')
-router.register(prefix='books',viewset=views.Books)  # 不用加斜杠了
+router.register(prefix='books', viewset=views.Books)  # 不用加斜杠了
 # 3.5.看一眼路由的样子
 # print(router.urls)
-#[
-#<RegexURLPattern book-list ^books/$>
-#<RegexURLPattern book-detail ^books/(?P<pk>[^/.]+)/$>
+# [
+# <RegexURLPattern book-list ^books/$>
+# <RegexURLPattern book-detail ^books/(?P<pk>[^/.]+)/$>
 # ]
 
 urlpatterns = [
